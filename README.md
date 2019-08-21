@@ -10,7 +10,6 @@ Repositório em construção com foco em facilitar a aplicação de Rotinas do S
 #### Serão encontradas rotinas básicas de uso do Software até aplicação propriamente dita em análises estatísticas e plotagem de gráficos.
 ---
 
----
 - Clara Mitre do Prado - Mestranda pela Universidade Federal de Lavras - UFLA
 - email para contato: claramitre@hotmail.com
 ---
