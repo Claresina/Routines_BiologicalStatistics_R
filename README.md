@@ -1,10 +1,11 @@
 # ROUTINES FOR BIOLOGICAL STATISTICS - R
 ---
 
-## Descrição
-
 Repositório em construção com foco em facilitar a aplicação de Rotinas do Software R / RStudio em Estatísticas Biológicas Variadas.
-Serão encontradas rotinas introdutórias de uso do Software até aplicação propriamente dita em análises estatísticas e plotagem de gráficos.
+---
+
+---
+Serão encontradas rotinas básicas de uso do Software até aplicação propriamente dita em análises estatísticas e plotagem de gráficos.
 ---
 
 ---
